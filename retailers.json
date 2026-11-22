@@ -1,0 +1,15 @@
+[
+  {"name": "Smyths UK", "type": "jsonld", "url": "https://www.smythstoys.com/uk/en-gb/toys/squishy-toys/needoh-2026-advent-calendar/p/258225"},
+  {"name": "Bigjigs", "type": "shopify", "base": "https://www.bigjigstoys.co.uk", "handle": "needoh-advent-calendar-sysqmac26"},
+  {"name": "Bigjigs (2nd listing)", "type": "shopify", "base": "https://www.bigjigstoys.co.uk", "handle": "squishmas-advent-calendar-nee-doh"},
+  {"name": "Scribbler", "type": "shopify", "base": "https://www.scribbler.com", "handle": "needoh-advent-calendar"},
+  {"name": "Toy Street", "type": "shopify", "base": "https://www.toystreet.co.uk", "handle": "needoh-advent-calendar-2026"},
+  {"name": "Fun House Toys", "type": "shopify", "base": "https://www.funhousetoys.co.uk", "handle": "needoh-advent-calendar-24-day-of-squishmas"},
+  {"name": "Jukupop", "type": "shopify", "base": "https://jukupop.com", "mode": "watch"},
+  {"name": "Infinity Collectables", "type": "shopify", "base": "https://www.infinitycollectables.com", "mode": "watch"},
+  {"name": "Menkind", "type": "jsonld", "mode": "watch", "url": "https://www.menkind.co.uk/search?q=needoh+advent"},
+  {"name": "The Dyslexia Shop", "type": "shopify", "base": "https://www.thedyslexiashop.co.uk", "handle": "needoh-advent-calendar-24-fidget-toys-for-adhd-and-sensory-play"},
+  {"name": "Urban Outfitters UK", "type": "jsonld", "url": "https://www.urbanoutfitters.com/en-gb/shop/needoh-advent-calendar"},
+  {"name": "Cogs Toys (Ireland)", "type": "shopify", "base": "https://www.cogstoysandgames.ie", "handle": "needoh-advent-calendar-2026", "currency": "€"},
+  {"name": "Amazon UK", "type": "amazon", "mode": "watch", "url": "https://www.amazon.co.uk/s?k=needoh+advent+calendar+2026", "max_price": 40}
+]
