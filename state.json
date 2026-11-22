@@ -1,1 +1,50 @@
-{}
+{
+  "Bigjigs": {
+    "checked": "2026-11-22 09:49:47",
+    "price": 29.99,
+    "status": "out",
+    "url": "https://www.bigjigstoys.co.uk/products/needoh-advent-calendar-sysqmac26"
+  },
+  "Bigjigs (2nd listing)": {
+    "checked": "2026-11-22 09:49:49",
+    "price": 29.99,
+    "status": "out",
+    "url": "https://www.bigjigstoys.co.uk/products/squishmas-advent-calendar-nee-doh"
+  },
+  "Cogs Toys (Ireland)": {
+    "checked": "2026-11-22 09:50:28",
+    "price": 38.95,
+    "status": "out",
+    "url": "https://www.cogstoysandgames.ie/products/needoh-advent-calendar-2026"
+  },
+  "Fun House Toys": {
+    "checked": "2026-11-22 09:50:00",
+    "price": 39.99,
+    "status": "out",
+    "url": "https://www.funhousetoys.co.uk/products/needoh-advent-calendar-24-day-of-squishmas"
+  },
+  "Infinity Collectables": {
+    "checked": "2026-11-22 09:50:09",
+    "price": null,
+    "status": "watching",
+    "url": "https://www.infinitycollectables.com/search?q=needoh+advent"
+  },
+  "Jukupop": {
+    "checked": "2026-11-22 09:50:04",
+    "price": null,
+    "status": "watching",
+    "url": "https://jukupop.com/search?q=needoh+advent"
+  },
+  "The Dyslexia Shop": {
+    "checked": "2026-11-22 09:50:17",
+    "price": 44.99,
+    "status": "out",
+    "url": "https://www.thedyslexiashop.co.uk/products/needoh-advent-calendar-24-fidget-toys-for-adhd-and-sensory-play"
+  },
+  "Toy Street": {
+    "checked": "2026-11-22 09:49:57",
+    "price": 23.39,
+    "status": "out",
+    "url": "https://www.toystreet.co.uk/products/needoh-advent-calendar-2026"
+  }
+}
