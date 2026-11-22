@@ -2,7 +2,7 @@
   {"name": "Smyths UK", "type": "jsonld", "url": "https://www.smythstoys.com/uk/en-gb/toys/squishy-toys/needoh-2026-advent-calendar/p/258225"},
   {"name": "Bigjigs", "type": "shopify", "base": "https://www.bigjigstoys.co.uk", "handle": "needoh-advent-calendar-sysqmac26"},
   {"name": "Bigjigs (2nd listing)", "type": "shopify", "base": "https://www.bigjigstoys.co.uk", "handle": "squishmas-advent-calendar-nee-doh"},
-  {"name": "Scribbler", "type": "shopify", "base": "https://www.scribbler.com", "handle": "needoh-advent-calendar"},
+  {"name": "Scribbler", "type": "shopify", "base": "https://www.scribbler.com", "mode": "watch"},
   {"name": "Toy Street", "type": "shopify", "base": "https://www.toystreet.co.uk", "handle": "needoh-advent-calendar-2026"},
   {"name": "Fun House Toys", "type": "shopify", "base": "https://www.funhousetoys.co.uk", "handle": "needoh-advent-calendar-24-day-of-squishmas"},
   {"name": "Jukupop", "type": "shopify", "base": "https://jukupop.com", "mode": "watch"},
